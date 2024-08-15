@@ -2,6 +2,7 @@
   <br>
   <br>
   Oficina de Git
+  Ministrada no dia 15/08/2024
   <br>
 </h1>
 <h4 align="center">Projeto da Siecomp </h4>
