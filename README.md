@@ -10,7 +10,6 @@
 <div align="center">
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/nailasuely/oficina-git/blob/main/LICENSE)
-![Python](https://img.shields.io/badge/Python-306998?logo=python&logoColor=white)
 
 <p align="center">
   
