@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <br>
-  O)ficina de Git
+  Oficina de Git
   <br>
 </h1>
 <h4 align="center">Projeto da Siecomp </h4>
